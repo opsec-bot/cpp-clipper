@@ -32,6 +32,11 @@ Simply run the compiled program to begin monitoring the Windows clipboard for cr
 - Dash
 - NEO
 
+
+https://user-images.githubusercontent.com/71150660/230821824-56d33b1e-3c74-4c1b-8060-253d93937484.mp4
+
+
+
 ## Configuration
 
 The addresses that Crypto Clipper monitors for can be configured in the `addresses` map in the source code. Each supported cryptocurrency has an entry in the map that specifies the regex pattern to match addresses of that type, the message to print when an address is detected, and the new address to replace it with.
